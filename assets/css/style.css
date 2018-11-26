@@ -2204,7 +2204,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     border-radius: 50px;
     border: none;
     color: #ffffff;
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: ;
     margin-top: 45px; }
     .hero-slider .slick-arrow i {
       -webkit-transition: all 0s ease 0s;
@@ -4081,7 +4081,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
       display: -ms-inline-flexbox;
       display: inline-flex; }
     .footer-widget{
-      height: 45px;
+      height: 100px;
     } 
 
 /*-- Contact List --*/
